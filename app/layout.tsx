@@ -27,7 +27,7 @@ export default function RootLayout({
             >
                 <Link href="/">
                     <Image
-                        src="/images/logo.png"
+                        src="/logo.png"
                         width={200}
                         height={200}
                         alt="My Diary Logo"

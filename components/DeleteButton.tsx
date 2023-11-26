@@ -6,7 +6,7 @@ export default function DeleteButton({ duty }: { duty: string }) {
     return (
         <button onClick={() => deleteDuty(duty)}>
             <Image
-                src="/images/delete.svg"
+                src="/delete.svg"
                 width={20}
                 height={20}
                 alt="Icon delete mark"
